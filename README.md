@@ -1,2 +1,2 @@
 # IT-488-Group-3-
-Help Desk Ticketing
+Help Desk Ticketing System
