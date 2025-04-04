@@ -1,19 +1,86 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\IT-488-Group-3-\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\IT-488-Group3-#2\\FixItRight.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\IT-488-Group-3-\\FixItRight.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FixItRight.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\IT-488-Group-3-\\FixItRight.Designer||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FixItRight.Designer||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\IT-488-Group-3-\\FixItRight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FixItRight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 167,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FixItRight.Designer.cs",
+              "DocumentMoniker": "C:\\Git\\IT-488-Group3-#2\\FixItRight.Designer.cs",
+              "RelativeDocumentMoniker": "..\\IT-488-Group3-#2\\FixItRight.Designer.cs",
+              "ToolTip": "C:\\Git\\IT-488-Group3-#2\\FixItRight.Designer.cs",
+              "RelativeToolTip": "..\\IT-488-Group3-#2\\FixItRight.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:48:21.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FixItRight.resx",
+              "DocumentMoniker": "C:\\Git\\IT-488-Group-3-\\FixItRight.resx",
+              "RelativeDocumentMoniker": "FixItRight.resx",
+              "ToolTip": "C:\\Git\\IT-488-Group-3-\\FixItRight.resx",
+              "RelativeToolTip": "FixItRight.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-02T04:25:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FixItRight.Designer",
+              "DocumentMoniker": "C:\\Git\\IT-488-Group-3-\\FixItRight.Designer",
+              "RelativeDocumentMoniker": "FixItRight.Designer",
+              "ToolTip": "C:\\Git\\IT-488-Group-3-\\FixItRight.Designer",
+              "RelativeToolTip": "FixItRight.Designer",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-02T04:25:10.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FixItRight.csproj",
+              "DocumentMoniker": "C:\\Git\\IT-488-Group-3-\\FixItRight.csproj",
+              "RelativeDocumentMoniker": "FixItRight.csproj",
+              "ToolTip": "C:\\Git\\IT-488-Group-3-\\FixItRight.csproj",
+              "RelativeToolTip": "FixItRight.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T04:24:45.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

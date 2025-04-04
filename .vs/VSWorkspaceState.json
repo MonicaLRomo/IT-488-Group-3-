@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\obj",
+    "\\obj\\Debug"
   ],
-  "SelectedNode": "\\C:\\Git\\IT-488-Group-3-",
+  "SelectedNode": "\\FixItRight.csproj",
   "PreviewInSolutionExplorer": false
 }
